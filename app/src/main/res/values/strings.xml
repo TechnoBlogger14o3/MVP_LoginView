@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginView</string>
+    <string name="email_id_username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="info">For now, the Username and Password are HardCoded, Use Username and Passsword as 1234</string>
+</resources>
